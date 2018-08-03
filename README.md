@@ -1,5 +1,5 @@
 # code-rules
-Prioritized list of object oriented design rules to use on your project
+Prioritized list of object oriented design rules to use in your project
 
 ## Naming
 1. Reveal intent
